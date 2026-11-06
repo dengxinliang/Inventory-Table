@@ -17,7 +17,7 @@ hero:
       link: /components/inventory-table
     - theme: alt
       text: GitHub
-      link: https://github.com/your-org/inventory-table
+      link: https://github.com/dengxinliang/Inventory-Table
 
 features:
   - title: Vue 3 + TS

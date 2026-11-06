@@ -5,11 +5,11 @@ export default defineConfig({
   title: 'Inventory Table',
   description: 'Vue 3 + Element Plus 库存表格组件 — 开箱即用',
   lang: 'zh-CN',
-  base: '/inventory-table/',
+  base: '/Inventory-Table/',
   lastUpdated: true,
   cleanUrls: true,
   head: [
-    ['link', { rel: 'icon', href: '/inventory-table/favicon.svg' }],
+    ['link', { rel: 'icon', href: '/Inventory-Table/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#0f766e' }],
   ],
   themeConfig: {
@@ -23,7 +23,7 @@ export default defineConfig({
         items: [
           {
             text: 'Changelog',
-            link: 'https://github.com/your-org/inventory-table/blob/main/CHANGELOG.md',
+            link: 'https://github.com/dengxinliang/Inventory-Table/blob/master/CHANGELOG.md',
           },
         ],
       },
@@ -48,7 +48,7 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-org/inventory-table' },
+      { icon: 'github', link: 'https://github.com/dengxinliang/Inventory-Table' },
     ],
     footer: {
       message: 'Released under the MIT License.',

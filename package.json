@@ -48,11 +48,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dengxinliang/inventory-table.git"
+    "url": "https://github.com/dengxinliang/Inventory-Table.git"
   },
-  "homepage": "https://dengxinliang.github.io/inventory-table/",
+  "homepage": "https://dengxinliang.github.io/Inventory-Table/",
   "bugs": {
-    "url": "https://github.com/dengxinliang/inventory-table/issues"
+    "url": "https://github.com/dengxinliang/Inventory-Table/issues"
   },
   "peerDependencies": {
     "element-plus": "^2.4.0",

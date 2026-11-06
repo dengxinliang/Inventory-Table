@@ -6,10 +6,10 @@ Vue 3 + TypeScript 库存表格组件，基于 Element Plus。筛选、分页、
 
 ## 在线预览
 
-- **文档站 Demo**：[https://dengxinliang.github.io/inventory-table/](https://dengxinliang.github.io/inventory-table/)
-- **组件页直达**：[https://dengxinliang.github.io/inventory-table/components/inventory-table](https://dengxinliang.github.io/inventory-table/components/inventory-table)
+- **文档站 Demo**：[https://dengxinliang.github.io/Inventory-Table/](https://dengxinliang.github.io/Inventory-Table/)
+- **组件页直达**：[https://dengxinliang.github.io/Inventory-Table/components/inventory-table](https://dengxinliang.github.io/Inventory-Table/components/inventory-table)
 
-> 本地预览：`npm install && npm run docs:dev`，默认打开 `http://localhost:5173/inventory-table/`
+> 本地预览：`npm install && npm run docs:dev`，默认打开 `http://localhost:5173/Inventory-Table/`
 
 ## 特性
 
@@ -155,7 +155,7 @@ interface InventoryItem {
 }
 ```
 
-完整 API 见文档：[Components / InventoryTable](https://dengxinliang.github.io/inventory-table/components/inventory-table)
+完整 API 见文档：[Components / InventoryTable](https://dengxinliang.github.io/Inventory-Table/components/inventory-table)
 
 ## 本地开发
 
@@ -186,7 +186,7 @@ npm run build
 npm publish --access public
 ```
 
-发布前请将 `package.json` / README 中的 `dengxinliang` 替换为实际组织或用户名，并配置 GitHub Pages（`docs:build` 产物目录为 `docs/.vitepress/dist`）。
+GitHub Pages 需在仓库 **Settings → Pages → Source** 选择 **GitHub Actions**；推送到 `master`/`main` 后由 `.github/workflows/docs.yml` 自动部署（产物目录：`docs/.vitepress/dist`）。
 
 ## 授权协议
 
