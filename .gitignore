@@ -1,0 +1,11 @@
+node_modules
+dist
+docs/.vitepress/dist
+docs/.vitepress/cache
+*.local
+.DS_Store
+*.log
+.vscode/*
+!.vscode/extensions.json
+coverage
+*.tsbuildinfo

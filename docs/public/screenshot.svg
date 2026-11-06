@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fdfa"/>
+      <stop offset="100%" stop-color="#ecfeff"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#0f766e" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="48" y="48" width="1184" height="624" rx="16" fill="#fff" filter="url(#shadow)" stroke="#ccfbf1" stroke-width="1"/>
+  <text x="72" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#134e4a">Inventory Table · “X„È</text>
+  <!-- toolbar -->
+  <rect x="72" y="118" width="180" height="36" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="84" y="141" font-family="Segoe UI, Arial" font-size="13" fill="#94a3b8">" SKU / ð</text>
+  <rect x="264" y="118" width="120" height="36" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="276" y="141" font-family="Segoe UI, Arial" font-size="13" fill="#94a3b8">{</text>
+  <rect x="396" y="118" width="120" height="36" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="408" y="141" font-family="Segoe UI, Arial" font-size="13" fill="#94a3b8">Ó“</text>
+  <rect x="528" y="118" width="88" height="36" rx="8" fill="#0f766e"/>
+  <text x="552" y="141" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#fff">åâ</text>
+  <!-- table header -->
+  <rect x="72" y="174" width="1136" height="44" fill="#f0fdfa"/>
+  <text x="100" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">SKU</text>
+  <text x="240" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">FÁð</text>
+  <text x="460" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">{</text>
+  <text x="600" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">Ó“</text>
+  <text x="720" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">“X</text>
+  <text x="860" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">¶</text>
+  <text x="1000" y="201" font-family="Segoe UI, Arial" font-size="13" font-weight="600" fill="#64748b">U÷</text>
+  <!-- rows -->
+  <g font-family="Segoe UI, Arial" font-size="13" fill="#334155">
+    <text x="100" y="255">SKU-10001</text>
+    <text x="240" y="255">à¿ÝY3: Pro</text>
+    <text x="460" y="255">pMö</text>
+    <text x="600" y="255">
+wÓ</text>
+    <text x="720" y="255">128</text>
+    <rect x="860" y="238" width="52" height="24" rx="12" fill="#d1fae5"/>
+    <text x="870" y="254" fill="#047857" font-size="12">E³</text>
+    <text x="1000" y="255">¥299.00</text>
+
+    <rect x="72" y="276" width="1136" height="48" fill="#f8fafc"/>
+    <text x="100" y="305">SKU-10002</text>
+    <text x="240" y="305">:°.Ø RGB</text>
+    <text x="460" y="305">pMö</text>
+    <text x="600" y="305">ñ3Ó</text>
+    <text x="720" y="305">8</text>
+    <rect x="860" y="288" width="52" height="24" rx="12" fill="#fef3c7"/>
+    <text x="870" y="304" fill="#b45309" font-size="12">ON</text>
+    <text x="1000" y="305">¥459.00</text>
+
+    <text x="100" y="355">SKU-10003</text>
+    <text x="240" y="355">27ø>:h 4K</text>
+    <text x="460" y="355">žl¾</text>
+    <text x="600" y="355">
+wÓ</text>
+    <text x="720" y="355">0</text>
+    <rect x="860" y="338" width="52" height="24" rx="12" fill="#fee2e2"/>
+    <text x="870" y="354" fill="#b91c1c" font-size="12">:'</text>
+    <text x="1000" y="355">¥1899.00</text>
+
+    <rect x="72" y="376" width="1136" height="48" fill="#f8fafc"/>
+    <text x="100" y="405">SKU-10004</text>
+    <text x="240" y="405">ºSåf</text>
+    <text x="460" y="405">žl¶w</text>
+    <text x="600" y="405">ÞÓ</text>
+    <text x="720" y="405">42</text>
+    <rect x="860" y="388" width="52" height="24" rx="12" fill="#d1fae5"/>
+    <text x="870" y="404" fill="#047857" font-size="12">E³</text>
+    <text x="1000" y="405">¥1280.00</text>
+
+    <text x="100" y="455">SKU-10005</text>
+    <text x="240" y="455">A4 p¸ 70g</text>
+    <text x="460" y="455">žlP</text>
+    <text x="600" y="455">¬Ó</text>
+    <text x="720" y="455">560</text>
+    <rect x="860" y="438" width="52" height="24" rx="12" fill="#d1fae5"/>
+    <text x="870" y="454" fill="#047857" font-size="12">E³</text>
+    <text x="1000" y="455">¥28.50</text>
+
+    <rect x="72" y="476" width="1136" height="48" fill="#f8fafc"/>
+    <text x="100" y="505">SKU-10006</text>
+    <text x="240" y="505">USB-C iU^</text>
+    <text x="460" y="505">pMö</text>
+    <text x="600" y="505">ñ3Ó</text>
+    <text x="720" y="505">3</text>
+    <rect x="860" y="488" width="52" height="24" rx="12" fill="#fef3c7"/>
+    <text x="870" y="504" fill="#b45309" font-size="12">ON</text>
+    <text x="1000" y="505">¥199.00</text>
+  </g>
+  <!-- pagination -->
+  <text x="72" y="580" font-family="Segoe UI, Arial" font-size="13" fill="#64748b">q 12 a</text>
+  <rect x="980" y="558" width="32" height="32" rx="6" fill="#0f766e"/>
+  <text x="992" y="579" font-family="Segoe UI, Arial" font-size="13" fill="#fff">1</text>
+  <rect x="1020" y="558" width="32" height="32" rx="6" fill="#f1f5f9"/>
+  <text x="1031" y="579" font-family="Segoe UI, Arial" font-size="13" fill="#334155">2</text>
+  <text x="72" y="640" font-family="Segoe UI, Arial" font-size="12" fill="#94a3b8">@inventory-table/vue · MIT License</text>
+</svg>

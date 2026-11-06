@@ -1,0 +1,78 @@
+{
+  "name": "@inventory-table/vue",
+  "version": "1.0.0",
+  "description": "A Vue 3 + TypeScript inventory table component based on Element Plus — ready for npm and plugin markets.",
+  "type": "module",
+  "main": "./dist/inventory-table.umd.cjs",
+  "module": "./dist/inventory-table.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/inventory-table.js",
+      "require": "./dist/inventory-table.umd.cjs"
+    },
+    "./style.css": "./dist/style.css"
+  },
+  "files": [
+    "dist",
+    "media",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "build": "vite build",
+    "build:lib": "vite build",
+    "typecheck": "vue-tsc --noEmit -p tsconfig.json",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "typescript",
+    "element-plus",
+    "inventory",
+    "table",
+    "stock",
+    "component",
+    "inventory-table"
+  ],
+  "author": "Inventory Table Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengxinliang/inventory-table.git"
+  },
+  "homepage": "https://dengxinliang.github.io/inventory-table/",
+  "bugs": {
+    "url": "https://github.com/dengxinliang/inventory-table/issues"
+  },
+  "peerDependencies": {
+    "element-plus": "^2.4.0",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "element-plus": "^2.8.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vite-plugin-dts": "^4.3.0",
+    "vitepress": "^1.5.0",
+    "vue": "^3.4.0",
+    "vue-tsc": "^2.1.10"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

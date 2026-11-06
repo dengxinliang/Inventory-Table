@@ -1,0 +1,8 @@
+docs
+src
+*.tsbuildinfo
+tsconfig*.json
+vite.config.ts
+env.d.ts
+.vscode
+.github
