@@ -1,21 +1,10 @@
-MIT License
+# 授权协议
+版权所有 © 作者
 
-Copyright (c) 2026 Inventory Table Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. 本组件为纯Web Vue组件，仅可在浏览器H5网页项目使用，不兼容uni-app、小程序、App。
+2. 允许个人、商业项目免费使用、自行修改用于自身项目。
+3. 禁止将本组件或修改后的版本二次售卖、打包发布到DCloud插件市场及其他平台。
+4. 禁止公开分发、开源分享本组件源码。
+5. 禁止用于违法违规项目。
+6. 作者不负责将本组件改造适配uni-app/小程序/App，适配改造属于定制开发。
+7. 如有争议，遵从DCloud插件市场平台规则，作者保留最终解释权。
